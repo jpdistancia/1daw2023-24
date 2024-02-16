@@ -21,6 +21,7 @@ public class A
     public A(int at1) 
     {
         this.at1 = at1;
+        //Esto lo pongo desde netbeans para comprobar que funciona bien
     }
 
     public int getAt1() 
