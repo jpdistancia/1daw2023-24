@@ -22,7 +22,7 @@ public class ProyectoEjemplo
         
         A objA = new A(5);
 
-        //Hecho desde otro lugar
+        //Hecho desde otro lugar 18-02
         
         objA.toString();
         
