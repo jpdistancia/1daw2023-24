@@ -19,6 +19,8 @@ public class ProyectoEjemplo
         System.out.println("Hello World!");
         
         A objA = new A(5);
+
+        //Hecho desde otro lugar
         
         objA.toString();
         
